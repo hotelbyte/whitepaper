@@ -83,7 +83,7 @@ Our professionals are here, keep calm you will be more happy!
 **This section explains how the hotels going to benefit from this innovative business model.**
 
 ## What's in it for the Hotels?
-In one word: Blockchain. Thats means lower prices, more conversion rates (ROI).
+In one word: Blockchain. Thats means lower prices, no contracting processes, no billing periods = **more conversion rates (ROI)**.
 
 Thanks to Blockchain technology we can provide a business model with no added fees (only the transaction itself) and with a real potential for increasing visibility based on real experiences, as well as an immediate update of search results, increasing profits and striving to improve your service and not in negotiating demanding contracts with integrations.
 
