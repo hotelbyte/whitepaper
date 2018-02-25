@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https//hotelbyte.org">HOTELBYTE FOUNDATION WHITE PAPER</a></h1>
+<h1 align="center"><a href="https://hotelbyte.org">HOTELBYTE FOUNDATION WHITE PAPER</a></h1>
 
 `Note: This document overrides any version of digital or physical document of our white paper`
 
