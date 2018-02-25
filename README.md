@@ -1,5 +1,5 @@
 # White Paper
-The `white-paper.md` file is our white paper with the evolution of the project in general terms. For detailed things we have the `detailed` folder with specific files for each thing (working on).
+The `white-paper.md` file is our white paper with the evolution of the project in general terms. For detailed functionalities we have the `detailed` folder with specific files for each one (working on).
 
 ## How to contribute
 Contact to us in our [Discord channel](https://discord.gg/P5tcha3) we need your active Linkedin with almost 150 connections and your profile has one year as minimum at the moment of the our conversation, if you want to contribute as anonymous this project isn't for you.
