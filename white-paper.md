@@ -34,7 +34,7 @@ If you are interested to contribute with us please ensure you understand all the
 
 # Introduction
 ## If you are a hotel...
-Try to imagine the **full control on room rate**, the full price adjustment no matter the intermediaries commissions, the hotel position based on real experiences and not depending on negotiations for demanding contracts with integration or reservation platforms and free!
+Try to imagine the **full control on room rate**, the full price adjustment no matter the intermediaries commissions, capacity to create your own website of sales, the hotel position based on real experiences and not depending on negotiations for demanding contracts with integration or reservation platforms and free!
 
 If you want to be the first to innovate, if you want to take the control of your services without depending on demanding negotiations with integration platforms, pricing control, time to market, etc., if you want to get a real reviews about the experiences of your guests, or simply you are exclusive and luxurious, this is your project!
 
@@ -73,3 +73,54 @@ We are a foundation, your funds will goes to invest in development hours and mar
 
 ## If you are a blogger, press writer...
 Read about us, ask about us, and share our project to the world, if you believe in this project share it!
+
+
+# Problem to Solve
+Simple, you waste your time to find the best hotel for you, you waste your money too. Hotels waste their money with a lot of intermediaries, platforms, pricing, what to tell you, you know it.
+Our professionals are here, keep calm you will be more happy!
+
+# Hotels
+**This section explains how the hotels going to benefit from this innovative business model.**
+
+## What's in it for the Hotels?
+In one word: Blockchain. Thats means lower prices, more conversion rates (ROI).
+
+Thanks to Blockchain technology we can provide a business model with no added fees (only the transaction itself) and with a real potential for increasing visibility based on real experiences, as well as an immediate update of search results, increasing profits and striving to improve your service and not in negotiating demanding contracts with integrations.
+
+In addition, the feared overbooking and delayed billing synchronizations with intermediaries disappear, as the hotel receives the money instantly, the litigation with the platforms are running out.
+
+<p align="center">
+	<img src="/imagespricing_process_availability.png">
+	<br>
+	<b>Pricing model</b> - High level of pricing process, just in 3 steps.
+</p>
+<br>
+
+Therefore we could list some of the key points you will achieve with this project:
+ + Cost savings in SEO positioning and system scalability platforms.
+ + No more commercial litigation due to reservation errors.
+ + No more billing cycles with third parties.
+ + Improvement of the quality of your service to obtain experiences validated by your hotel.
+ + Control and improvement on the hotel SEO positioning.
+ + The safeguarding of hotel reservation sensitive data in a private Blockchain.
+ + And last but not least, all the advantages of Blockchain, fault tolerance, redundancy, etc.
+
+# End Users
+
+# Intermediaries
+
+# Hotelcoin - HBF
+
+# Miners
+
+# Master Nodes
+The master node is a trusted node to guarantee the Hotelbyte network for your hotel bookings. As a miner, or as an intermediari you could run a master node to get rewards for your node keeping a robust network.
+The technical details going to be available in the Q3/2018, please see our roadmap for more information about the release date.
+
+# Roadmap
+
+# FAQ
+
+# Appendix
+
+# Team
