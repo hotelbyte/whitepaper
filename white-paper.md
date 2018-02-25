@@ -90,7 +90,7 @@ Thanks to Blockchain technology we can provide a business model with no added fe
 In addition, the feared overbooking and delayed billing synchronizations with intermediaries disappear, as the hotel receives the money instantly, the litigation with the platforms are running out.
 
 <p align="center">
-	<img src="/imagespricing_process_availability.png">
+	<img src="/images/pricing_process_availability.png">
 	<br>
 	<b>Pricing model</b> - High level of pricing process, just in 3 steps.
 </p>
