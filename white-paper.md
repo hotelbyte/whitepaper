@@ -108,22 +108,79 @@ Therefore we could list some of the key points you will achieve with this projec
  + And last but not least, all the advantages of Blockchain, fault tolerance, redundancy, etc.
 
 ## Product Loading
+Now that you know a little about the concept of the idea, let's practice: I'm a hotel and I sell rooms and services. And now that I have to do? How do I present my product to the rest of the world?
+
+Well, the answer is very simple, using an interface called **DHI**, distributed hotel interface. DHI will allow you to internally upload your product in real time or with a minimum propagation time (special dates such as summer campaigns, etc.)
+When we refer to power internally upload, we mean that the DHI interface can be executed directly on a computer in your hotel or hotel chain, or if you prefer you can host it on your own servers.
+With this DHI interface, we want to standardize the way to load the product onto the Blockchain, simplifying the interfaces and customizing those modules of the hotel chain.
 
 ## Pricing
+Next steps! Now we have loaded product, but we are messing something very important: What´s about the price? What's about the hotel campaigns or promotions? What's about the booking cancellations?
+In the DHI interface, you will be able to define everything related with pricing.
+How does DHI interface pricing work? You will define a base price from which the rest of the characteristics are subtracted or added.
+
+An example from the infinite variants:
++ Room X with base price of 89 € 
++ % taxes, fees, etc., 15% taxes, 13.35 € 
++ % promotions, campaigns, 10% promotion, 8.9 € 
++ % cancellations, 100%
++ Calculated sales price 93.45 €
++ Cancellation price 93.45 €
 
 ## Room Availability
+It is important to understand how your hotel will be positioned in front of other competence hotels. The Blockchain will be feed through real validated user experiences. With these validated experiences your hotel will be positioned in the Blockchain. Here we are showing the main variables that will be taken into account in the hotel positioning:
++ User experiences
++ Cancellation rate
++ Images and information provided
++ Booking rate
+
+These hotel experiences are collected once the user has enjoyed the hotel experience. As a reward of the hotel experience provided, the user receives Hotelcoins.
 
 ## Booking
+Now we have the product loaded, as well as the price, promotions and policies of cancellation and positioning.
+As a hotel chain, you will be able to have one or n Hotelbyte addresses to receive Hotelcoin payments.
 
 ### Booking Cancellation
+In your product loading you will define your cancellation policies.
 
 ## How to participate
+### Beta Phase
+In order to join us you just have to contact us via email **partners@hotelbyte.org**, indicating a date and a place (a virtual conference if possible) and we will respond you immediately to arrange a meeting with the contacts you specify us.
+
+We have defined in our roadmap a beta phase to be able to work with hotel chains. With the aim of nourishing the project with real hotel product. And show the project in a practical way.
+
+In addition, in this beta phase the hoteliers (receptionists, etc.) and end users will have a tool to be able to expose all their improvements and report any problem detected in the process. (We are thinking in a **zendesk**)
 
 ### Guarantee
+The hotel has to be willing to offer a guarantee in case of exception, to guarantee the service to the user and with the sale of the same. For this, it will be specified directly with the hotel or hotel chain's address to define the best option for all.
 
 # End Users
+As a user and as a consumer of hotel bookings, you will take advantage of not having to do endless searches or not having to take Byzantine decisions. In addition to being able to write your experience directly to the hotel, the quality of the hotel offered will increase and you will be rewarded immediately.
+That is, if you are looking for good prices, with this project you will be able to obtain them, and if the price does not matter to you but what the service is the important for you, also, **sign up for the Hotelbyte movement**!
+
+## Mobile App
+We are working in the mobile app to bring to you the best search experience in the Blockchain. Please be patient we going to update this section with screens.
+
+Remember don't trust in any company that tries to sell to you a business they always will need profit of each booking, the company without profit it's a smoke, we are **The Hotel's Blockchain Foundation, we are the Hotelbyte Foundation** we are unique join us.
 
 # Intermediaries
+If you are an intermediary, your role in the final phase of this project, with the current business model, it is no longer needed. But as a Blockchain hotel foundation we want the transition to be for everyone, therefore we study different concepts to take part of the conversion:
+
+**Step 1**: Hotel migration with direct contracts with the intermediary to the Blockchain
+This migration would have a commission for the intermediary that would be reduced gradually (creating a token in our network).
+
+**Step 2**: Adhesion to the foundation as an active part. You, as an intermediary, that have the experience and production capacity, can join the foundation to expand this technology. Either providing power to build private Blockchain networks for each hotel chain, or helping to maintain and make progress the hotel booking interfaces. Your reward / benefit will be studied according to each case and contribution. But think that you could convert yourself and you could be benefited, simply by maintaining a healthy network for the hotel to sell and positioning your networks that are the best, etc.
+
+The final objective is that the intermediaries will convert themselves, providing creativity and power to the foundation. Creating an ecosystem where we all work to provide added value, and the prices will be in charged by the owners of the hotels!
+
+## What will happen with TTOO, travel agencies, etc.?
+The goal of this project is to break drastically with the current hotel booking model. But we are aware that such a change is very complicated due to the strength of the current hotel industry.
+For this reason, the TTOO and travel agencies need to see this project as an evolution in the hotel business and reconvert themselves. This reconversion may take several years, and surely there is a lot of skepticism and there is a lot of people who do not want to participate. This is a normal situation, due to they are currently earning a lot of money, we are aware that we are talking about multi-million dollar businesses. But they are at risk of losing these multi-million dollar businesses if they ignore this project. Through this project we want to give hotels what they need and hotels will start to have more competitive prices and better experiences. Therefore we encourage you to join and collaborate to create a new future in the industry.
+
+## How to participate
+### Beta Phase
+In order to join us you just have to contact us via email **partners@hotelbyte.org**, indicating a date and a place (a virtual conference if possible) and we will respond you immediately to arrange a meeting with the contacts you specify us.
+Let's sit down together, let's talk, we can offer more to the world!
 
 # Hotelcoin - HBF
 Hotelcoin (HBF), is the cryptocurrency that we have defined to move transactions in our new network. Therefore the equivalent of ETH in this network will be HBF.
@@ -179,7 +236,7 @@ As:
 # Miners
 ## Why to mine this coin?
 Because without your support this community doesn't have sense, don't worry about the future **PoS** implementation this isn't planned yet, anyway you can mine now to hold in the future.
-Another thing to mine our coin is that with this coin you could booking hotels and hotel services like a massages :)
+Another thing to mine our coin is that with this coin you could do booking hotels and hotel services like a massages :)
 
 ## Guarantee
 You are the key, if you support us you will get a real value for our coin, for now we are in one exchange, but we need your help to get more users and get more exchanges. If you believe in this project you can to launch to the moon.
@@ -217,6 +274,38 @@ The intermediaries will become in a master nodes. Do you imagine thousend of mas
 [Read here our roadmap](https://hotelbyte.org#roadmap), We are working on changes for the roadmap, please any doubt ask us before to sproud bad words ;) thank you.
 
 # FAQ
+Surely you have a lot of doubts and uncertainties that we will list below, anyway these questions can be found updated in our [FAQ](https://hotelbyte.org#faq), also we are working for the **Zendesk** site for your support.
+
++ **I find this project difficult because of the current size of the industry. How is it possible to make such a big change?**
+	As any technological revolution has to be step by step, first we want to show you the concept, get into practice, and after that, we want to gather as much support as possible to expand this technology, if you help us now, tomorrow we will all win.
+
++ **As a hotel or hotel chain, do I have to invest a lot of capital?**
+	DO NOT! You only need 4 things:
+		+ Be willing to innovate and be among the first!
+		+ Have the **DHI** installed in each hotel or on your own servers
+		+ Load your hotel product in the **DHI**
+		+ Have a wallet with Hotelcoin.
+		
++ **It is not clear to me what I can win as a hotel?**
+	So let's sit down together, let's talk about your concerns and faced problems and we will give you the best solution.
+
++ **The booking website that users will use, how will it be maintained, who will be responsible?**
+	We have several plans for this web, being an open source initiative, anyone could start the same website and put their look and feel to start selling the hotels available on the network. Doing that has a cost that is shared directly between the hotel and the foundation to guarantee the maintainability of the network.
+	+ Initial and medium term plan: The foundation will provide a DAPP.
+Long-term plan: Hotels or intermediaries that want to support the foundation, can create their own DAPP based on our network providing them with more functionality or specializing.
+	+ In any case, the foundation will be always the responsible and all its collaborators. As a hotel you will contribute indirectly by being connected to our network.
+
++ **What are Hotelcoins?**
+Please read the HotelCoins section
+
++ **Will the customer's data be safe?**
+	Yes, the hotel booking is never finalized in the public Blockchain, but it ends up being the private one of the hotel chain or hotel. This allows the transactions to be public but the private data is only accessible for the hotel chain or hotel.
+
++ **Is the payment transaction immediate?**
+	It is immediate as long as the Hotelbyte network is healthy.
+
++ **If the DHI fails, what can I do?**
+	There is a chat support and a FAQ to solve all your problems. DHI is a DAPP (distributed app) so the longer the number of hotels or servers you have with the private network running, the greater tolerance to failures.
 
 # Appendix
 + [Bitcoin Talk Announcement](https://bitcointalk.org/index.php?topic=2864398)
