@@ -211,7 +211,7 @@ This point is one of the premises of the **DHI** when loading a hotel product or
 ## How to get Hotelcoin - HBF?
 As:
 + Miner
-+ Buyer, (Buy now)[https://stocks.exchange/trade/HBF/LTC]
++ Buyer, [Buy now](https://stocks.exchange/trade/HBF/LTC)
 + Donor (If you donate **1 BTC** or more you will get 50K Hotelcoin, only the 4 first contributors from dev funds)
 + Master Node (not planned yet)
 + User review (we pay to you for you real experiences Q1 2019 planned in beta stage)
