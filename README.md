@@ -14,11 +14,13 @@ For example:
 We need your commitment if you want to help us, using the google translator for us isn't help, we need your commitment if you push new languages, please follow this repository to keep it any update on your language.
 
 ## Scam or cheap copies
-We know it, we are the first hotel mineable platform, but we are more things, we are the **FIRST foundation for the hotels in the blockchain**, if any enterprise or physical person publish or announce relationship with us please don't trust them, first confirm it with us.
+We know it, we are **the first mineable hotel platform**, but we are more things, we are the **FIRST foundation for the hotels in the blockchain**, if any enterprise or physical person publish or announce relationship with us please don't trust them, first confirm it with us.
 
 From our begin, a lot of enterprises wants to get the cake for this industry, take care, we are a FOUNDATION, we don't want to get profit of our activities, we want to bring the best ecosystem for the hotels industry and for the end users, like you.
 
-Our project is a **win to win only with your support** so help us to create a great community, create a big things, **changing the hotel world**.
+Don't trust to any ICO, presales, etc this is for your security, the real project is here.
+
+Our project is a **win to win only with your support** so help us to create a great community, create a big things, **changing the hotels world**.
 
 ## Why to trust in us?
 We have a lot of hotel system experience, We are transparent, check our website, our profiles, talk with us, enter in our [Discord channel](https://discord.gg/P5tcha3), nice to meet you ;)
