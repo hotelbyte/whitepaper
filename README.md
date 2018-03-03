@@ -24,6 +24,10 @@ Our project is a **win to win only with your support** so help us to create a gr
 
 ## Why to trust in us?
 We have a lot of hotel system experience, We are transparent, check our website, our profiles, talk with us, enter in our [Discord channel](https://discord.gg/P5tcha3), nice to meet you ;)
+Transparency, we are working to create a financial report of foundation accounts, while here you can see our accounts:
++ Dev account: 0xa591976A56D1998D6Cf3DE9dbB15BcEE2343cAFb 
++ Master node génesis account: 0xb21f9cd27151E4d9d6E0eDc0a08E293cd0cB9Bec
+
 
 ## License
 The project is under [LGPLv3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html) but the **concepts, ideas and writes about any functionality has copyright ©** 
