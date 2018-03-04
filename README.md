@@ -4,6 +4,9 @@ The [white-paper.md](https://github.com/hotelbyte/whitepaper/blob/master/white-p
 ## How to contribute
 Contact to us in our [Discord channel](https://discord.gg/P5tcha3) we need your active Linkedin with almost 150 connections and your profile has one year as minimum at the moment of the our conversation, if you want to contribute as anonymous this project isn't for you.
 
+### Press kit
+https://github.com/hotelbyte/foundation-website/tree/master/press-kit
+
 ## Translations
 Please help us to translate our white paper in other languages, keep the folder structure just name your new file with a language prefix.
 For example:
