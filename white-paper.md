@@ -9,7 +9,7 @@
 
 In this document we will provide you a tour around the Hotelbyte project to show you a new hotel booking concept. This new hotel booking concept will allow the hotel sector being in the top of the technological revolution of the Blockchain, facilitating and bringing the hotels and users to a new experience level.
 
-The Hotelbyte Foundation goal is to be the world leader of hotel booking revolution, focused to bring the best platform for **the hotel industry without any profit**. If you want to contribute to this initiative, please contact us on [Discord channel](https://discord.gg/P5tcha3) and/or [Donate, be part of us](https://commerce.coinbase.com/checkout/dc7f8be4-723f-4b09-aac9-182086c0d1b8)
+The Hotelbyte Foundation goal is to be the world leader of hotel booking revolution, focused to bring the best platform for **the hotel industry without any profit from you as end user**. If you want to contribute to this initiative, please contact us on [Discord channel](https://discord.gg/P5tcha3) and/or [Donate, be part of us](https://commerce.coinbase.com/checkout/dc7f8be4-723f-4b09-aac9-182086c0d1b8)
 
 Currently the project is in development, so we are entirely open to any comments, ideas or suggestions. Please be polite with us and with the community and remember that **it is better a constructive criticism than a WOW cavern troll**.
 
